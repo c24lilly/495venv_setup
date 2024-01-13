@@ -14,16 +14,8 @@ Windows:
 Linux/Mac:
 **i need help here**
 
-
-
-`pip install python==3.10`
-`pip install nengo==3.2.0`
-`pip install tensorflow==2.10.1`
-`pip install nengo-dl==3.6.0`
-`pip install nengo-gui`
-`pip install black[jupyter]`
-`pip install matplotlib`
-`pip install scikit-learn`
+Once you have activated your environment, cd to the directory in which your requirements.txt is stored, then run the following command:
+`pip install -r requirements.txt`
 
 (XX) Fork this repository.
 
