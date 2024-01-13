@@ -3,7 +3,7 @@ because computers hate me
 
 (1) Fork this repository.
 
-(2) You will need to create a new environment with the following packages: python 3.10, nengo 3.2, tensorflow 2.10.1, nengo-dl 3.6.0, nengo-gui, black[jupyter], matplotlib, and scikit-learn. The process to do so is to create a new environment, activate the environment, then download the packages using requirements.txt. 
+(2) You will need to create a new environment with the following packages: python 3.10, nengo 3.2, tensorflow 2.10.1, nengo-dl 3.6.0, nengo-gui, black[jupyter], matplotlib, scikit-learn, and other dependencies. The process to do so is to create a new environment, activate the environment, then download the packages using requirements.txt. 
 
 If you are using conda, these commands should do the trick:
 `conda create --name py3.10-nengo3.2 python=3.10` -- This command gives your new environment a name of *py3.10-nengo3.2*
