@@ -1,6 +1,8 @@
 # Testing environments
 because computers hate me
 
+**This is for test purposes only. Cadets - please do not do this yet!**
+
 (1) Fork this repository.
 
 (2) You will need to create a new environment that uses **python 3.10.13** with the following packages: nengo 3.2, tensorflow 2.10.1, nengo-dl 3.6.0, nengo-gui, black[jupyter], matplotlib, scikit-learn, and other dependencies. The process to do so is to create a new environment, activate the environment, then download the packages using requirements.txt. 
