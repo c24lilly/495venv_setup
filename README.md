@@ -19,7 +19,7 @@ Linux/Mac:
 Once you have activated your environment, cd to the directory in which your requirements.txt is stored, then run the following command:
 `pip install -r requirements.txt`
 
-(3) From your activated terminal, launch your code editor (mine is VS code): `code .`
+(3) From your activated terminal, launch your code editor. If you're using VS code, this command should do it: `code .` Within VS Code, in the search bar, type `Terminal: Create New Terminal`. Select your py3.10-nengo3.2 environment if/when prompted.
 
 (4) Open nengoDNN_ICE2.ipynb. Try to run. If it runs, everything should be ready to go. 
 
