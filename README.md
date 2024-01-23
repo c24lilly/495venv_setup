@@ -10,9 +10,9 @@ If you are using conda, these commands should do the trick:
 `conda create --name 495venv python=3.10` -- This command gives your new environment a name of *495venv*, however you can name it whatever you'd like.  
 `conda activate 495venv` -- This command activates the environment so that you can install other programs within that environment. You might see the name inside of your brackets change from *base* to the name of your new environment.
 
-If you are not using conda, these commands should work (**note: must use python 3.10.13**):  
+If you are not using conda, these commands should work (**note: must use python 3.10**):  
 Windows:  
-`python3.10.13 -m venv 495venv` -- This command gives your new environment a name of *495venv*  
+`python3.10 -m venv 495venv` -- This command gives your new environment a name of *495venv*  
 `495venv\Scripts\activate` -- This command activates the environment so that you can install other programs within that environment. You might see the name inside of your brackets change from *base* to the name of your new environment.
   
 Linux/Mac:  
