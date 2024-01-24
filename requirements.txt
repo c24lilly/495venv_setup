@@ -5,3 +5,5 @@ nengo-gui
 black[jupyter]
 matplotlib
 scikit-learn
+jupyter
+jupyterlab
