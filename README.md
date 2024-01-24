@@ -26,7 +26,7 @@ Note: I don't think anyone is using Linux or Mac, but please let me know if you 
   
 (6) From your activated terminal, launch your code editor. If you're using VS code, this command should do it: `code .` Within VS Code, in the search bar at the top type `>Terminal: Create New Terminal`. Select your _495venv_ environment if/when prompted. 
   
-(7) Open nengoDNN_ICE2.ipynb. Try to run. It may ask you to install a Jupyter extension - if it does, do it! If this code runs without error, everything should be ready to go for ICE1!
+(7) Open nengoDNN_setuptest.ipynb. Try to run. It may ask you to install a Jupyter extension - if it does, do it! If this code runs without error, everything should be ready to go for ICE1!
 
 **Thanks team!**
 
