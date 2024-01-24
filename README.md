@@ -4,7 +4,9 @@
 
 (1) Fork this repository.
 
-(2) You will need to create a new environment that uses **python 3.10.13** with the following packages: nengo 3.2, tensorflow 2.10.1, nengo-dl 3.6.0, nengo-gui, black[jupyter], matplotlib, scikit-learn, and other dependencies. The process to do so is to create a new environment, activate the environment, then download the packages using requirements.txt in this repository. 
+(2) Go to Python's [release page](https://www.python.org/downloads/windows/) and download Python 3.10.11
+
+(2) You will need to create a new environment that uses **python 3.10.11** with the following packages: nengo 3.2, tensorflow 2.10.1, nengo-dl 3.6.0, nengo-gui, black[jupyter], matplotlib, scikit-learn, and other dependencies. The process to do so is to create a new environment, activate the environment, then download the packages using requirements.txt in this repository. 
 
 If you are using conda, these commands should do the trick:  
 `conda create --name 495venv python=3.10` -- This command gives your new environment a name of *495venv*, however you can name it whatever you'd like.  
