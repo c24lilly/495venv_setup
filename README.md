@@ -1,5 +1,7 @@
 # Setting up ECE 495 Virtual Environment
 
+*I know we already did a bunch of set up, but in building our ICEs and Labs, I realized we had some compatibility issues with a few packages in our prior setup. Therefore, we are going to create a virtual environment that you can use for the rest of class!*
+
 (1) Fork this repository.
 
 (2)  You will need to create a new environment that uses **python 3.10.11** with the following packages: nengo 3.2, tensorflow 2.10.1, nengo-dl 3.6.0, nengo-gui, black[jupyter], matplotlib, scikit-learn, and other dependencies. The process to do so is to create a new environment using Python 3.10.11, activate the new environment, then download the packages using requirements.txt in this repository. 
